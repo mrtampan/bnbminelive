@@ -7,7 +7,7 @@
 - copy code dibawah ini
 
 
-``
+```
 let formData = new FormData;
 formData.append('action', 'claim');
 for(let i = 0; i < 1000; i++){
@@ -25,4 +25,4 @@ for(let i = 0; i < 1000; i++){
         });
 }
 
-``
+```
