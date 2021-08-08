@@ -4,7 +4,7 @@
 - buka bnb-miner.live dan login address bnb mu suu
 - masuk ke inspect elemen. 
 - pilih tab console
-- copy code dibawah ini
+- copy and paste code dibawah ini
 
 
 ```
